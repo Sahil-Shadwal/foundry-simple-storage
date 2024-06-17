@@ -74,7 +74,7 @@ Clone this repo
 
 ```
 git clone https://github.com/Sahil-Shadwal/foundry-simple-storage
-cd foundry-simple-storage-f23
+cd foundry-simple-storage
 ```
 
 ## Usage
