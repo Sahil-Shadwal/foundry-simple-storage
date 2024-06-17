@@ -73,7 +73,7 @@ $ cast --help
 Clone this repo
 
 ```
-git clone https://github.com/Cyfrin/foundry-simple-storage-f23
+git clone https://github.com/Sahil-Shadwal/foundry-simple-storage
 cd foundry-simple-storage-f23
 ```
 
